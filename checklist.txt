@@ -1,0 +1,11 @@
+1) Registration and Profile
+1.1) Check the registration on the site
+1.2) Check the profile editing
+2) Feedback form
+2.1) Verify the validation of the fields
+2.2) Check the sending of the letter / notification
+2.3) Check the delivery of the letter / notice
+2.4) Check the work of searching by name
+3) Comments
+3.1) Check the adding of the comment
+3.2) Check the comment is displayed correctly
